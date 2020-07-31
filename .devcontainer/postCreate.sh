@@ -20,4 +20,4 @@ cp -fv .devcontainer/.bashrc /root/
 #yarn global add http-server
 
 # Google Firebase
-#yarn global add firebase-tools
+yarn global add firebase-tools
